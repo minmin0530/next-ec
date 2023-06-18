@@ -1,6 +1,6 @@
 # next-ec
 次のECサイトを作ります。  
-制作中のサイト[https://next-ec-rust.vercel.app/](https://next-ec-rust.vercel.app/)
+制作中のサイト[https://next-ec-rust.vercel.app/](https://next-ec-rust.vercel.app/)  
 サイト表示が高速なECサイトのパッケージを作り、開発者コミュニティを作るのが目的です。  
   
 ## Next.js
